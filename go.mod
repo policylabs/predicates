@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/hjson/hjson-go/v4 v4.7.1
 	github.com/policylabs/attestation v0.3.0
-	github.com/policylabs/policy v0.5.7-0.20261004134513-55e5473eef09
+	github.com/policylabs/policy v0.6.0
 	google.golang.org/protobuf v1.36.12
 )
 
@@ -15,7 +15,6 @@ require (
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/ProtonMail/go-crypto v1.5.2 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
-	github.com/carabiner-dev/attestation v0.2.1 // indirect
 	github.com/carabiner-dev/vcslocator v0.5.1 // indirect
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
@@ -99,7 +98,7 @@ require (
 	golang.org/x/text v0.42.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260819154853-08b0e4226688 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260819154853-08b0e4226688 // indirect
-	google.golang.org/grpc v1.83.2 // indirect
+	google.golang.org/grpc v1.84.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	k8s.io/klog/v2 v2.140.0 // indirect
 )
