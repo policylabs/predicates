@@ -8,7 +8,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/carabiner-dev/attestation"
+	"github.com/policylabs/attestation"
 	papi "github.com/policylabs/policy/api/v1"
 	"google.golang.org/protobuf/encoding/protojson"
 )

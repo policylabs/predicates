@@ -7,8 +7,8 @@ import (
 	"bytes"
 	"encoding/json"
 
-	"github.com/carabiner-dev/attestation"
 	"github.com/hjson/hjson-go/v4"
+	"github.com/policylabs/attestation"
 )
 
 // normalizeToJSON returns the JSON form of a policy material document.

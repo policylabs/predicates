@@ -286,10 +286,12 @@ github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c/go.mod h1:7rwL4CYBLnjL
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/policylabs/attestation v0.3.0 h1:tutwsvbq/T5F0Hwt8+M4u42Egk1qP8YbNx4GQ1hnTTA=
+github.com/policylabs/attestation v0.3.0/go.mod h1:z5gJ2M2aAkByYxMLqoOIY31KvAOIX+Ys4ZW2HavM3/o=
 github.com/policylabs/policy v0.5.7-0.20261004134513-55e5473eef09 h1:xfDq4vrXBDv7EboreJwnDEwLn41cA2EqR9onfyBB9HE=
 github.com/policylabs/policy v0.5.7-0.20261004134513-55e5473eef09/go.mod h1:NArOX4b9LMPoc/aa8WPuZkEknGavT3IoYiyJ1rHxUBE=
-github.com/policylabs/signer v0.6.3 h1:TjwTKEtI+ZlIeSHRx+gUAcn/EGdByBjLjb1JVttKL0E=
-github.com/policylabs/signer v0.6.3/go.mod h1:ApviXSuYhSrLqLzpw47St7c8kUOPSkq1NiYNBAp2MDI=
+github.com/policylabs/signer v0.6.4 h1:5dBt/X+MVbg1Is+IeH9rmTEV9R4J9c4/Egawe9Q61Bc=
+github.com/policylabs/signer v0.6.4/go.mod h1:oPcQlEW6uaiLCWTiwZLxF+KdQuSRhx3h6xVVEcTlFNE=
 github.com/rogpeppe/go-internal v1.14.1 h1:UQB4HGPB6osV0SQTLymcB4TgvyWu6ZyliaW0tI/otEQ=
 github.com/rogpeppe/go-internal v1.14.1/go.mod h1:MaRKkUm5W0goXpeCfT7UZI6fk/L7L7so1lCWt35ZSgc=
 github.com/ryanuber/go-glob v1.0.0 h1:iQh3xXAumdQ+4Ufa5b25cRpC5TYKlno6hsv6Cb3pkBk=
