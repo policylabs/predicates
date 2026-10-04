@@ -1,4 +1,4 @@
-module github.com/carabiner-dev/predicates
+module github.com/policylabs/predicates
 
 go 1.26.0
 
