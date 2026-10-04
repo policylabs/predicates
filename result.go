@@ -7,9 +7,8 @@ import (
 	"encoding/json"
 
 	"github.com/carabiner-dev/attestation"
+	v1 "github.com/policylabs/policy/api/v1"
 	"google.golang.org/protobuf/encoding/protojson"
-
-	v1 "github.com/carabiner-dev/policy/api/v1"
 )
 
 // Ensure we are implementing the attestation framework predicate interface

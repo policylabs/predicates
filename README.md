@@ -1,7 +1,7 @@
 # Policy Material Predicates
 
 This repository contains wrappers around the 🔴🟡🟢 [AMPEL](https://github.com/carabiner-dev/ampel)
-[policy material](https://github.com/carabiner-dev/policy) elements to implement
+[policy material](https://github.com/policylabs/policy) elements to implement
 the [Carabiner Attestation Framework](https://github.com/carabiner-dev/attestation)
 interfaces.
 

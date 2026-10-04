@@ -10,9 +10,8 @@ import (
 	"sync"
 
 	"github.com/carabiner-dev/attestation"
+	papi "github.com/policylabs/policy/api/v1"
 	"google.golang.org/protobuf/encoding/protojson"
-
-	papi "github.com/carabiner-dev/policy/api/v1"
 )
 
 // PredicateTypes is a slice of all the predicate types
