@@ -2,7 +2,7 @@
 
 This repository contains wrappers around the 🔴🟡🟢 [AMPEL](https://github.com/carabiner-dev/ampel)
 [policy material](https://github.com/policylabs/policy) elements to implement
-the [Carabiner Attestation Framework](https://github.com/carabiner-dev/attestation)
+the [Carabiner Attestation Framework](https://github.com/policylabs/attestation)
 interfaces.
 
 This repository is designed to be minimal and the module hosted here is intended
